@@ -23,7 +23,8 @@ The Weatherly App is a Flutter-based mobile application designed to provide accu
 
 | Home Screen | Hourly Forecast | Real-time refresh | 
 | ----------- | --------------- | ---------------------- |
-|![Screenshot (277)](https://github.com/chinmaywali/Weather-App/assets/123446377/c07bb1c6-7e52-4eb1-8724-86c719a49121) | ![Screenshot (279)](https://github.com/chinmaywali/Weather-App/assets/123446377/a54ed0df-7a75-4b2d-8b9c-ec7d5d3775eb) | ![Screenshot (280)](https://github.com/chinmaywali/Weather-App/assets/123446377/d08e76c4-2261-4f3e-9429-5b95d80ce8d0) |
+|![Screenshot (281)](https://github.com/chinmaywali/Weather-App/assets/123446377/ad535ef0-1298-4de8-b821-f2348b84ae37) | ![Screenshot (282)](https://github.com/chinmaywali/Weather-App/assets/123446377/6d2e594e-1385-4595-bd56-bc1aea96d313) | ![Screenshot (283)](https://github.com/chinmaywali/Weather-App/assets/123446377/16b1dcf7-2aa2-4d67-a056-4abc6e0f08b7) |
+
 
 
 ---
