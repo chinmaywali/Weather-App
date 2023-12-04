@@ -10,7 +10,7 @@ class AdditionalInfoItem extends StatelessWidget {
     required this.icon,
     required this.temperature,
     required this.value,
-  });
+  }); 
 
   @override
   Widget build(BuildContext context) {
