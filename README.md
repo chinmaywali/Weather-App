@@ -38,21 +38,6 @@ The Weatherly App is a Flutter-based mobile application designed to provide accu
 
 ---
 
-## Installation⚙️
+<div align="center">
 
-1. Clone the repository: `git clone https://github.com/chinmaywali/Weather-App.git`
-2. Ensure Flutter is properly installed and dependencies are resolved: `flutter doctor`
-3. Run the app using your preferred Flutter development environment.
-
----
-
-## Contributing 🎉
-
-Contributions to the Weatherly app are appreciated! Whether it's enhancing existing features, fixing bugs, improving the UI/UX, or adding new functionalities, feel free to submit a pull request. Your contributions are invaluable in making this app more reliable and user-friendly.
-
----
-
-## Support 👍
-
-If you encounter any issues, have suggestions for improvements, or wish to discuss ideas related to the Weatherly app, please [create an issue](https://github.com/chinmaywali/Weather-App/issues). Your feedback is crucial in continually enhancing and refining the app for our users.
-
+<h2>ThankYou</h2>
