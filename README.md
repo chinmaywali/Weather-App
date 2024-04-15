@@ -7,7 +7,7 @@ Weatherly App 🌦️
 </h1>
 <h3>◦ A real-time Weather Forecasting App </h3>
 <h3>◦ Developed with Dart, Flutter, and HTTP package </h3> 
-
+  
 
 </div>
 
