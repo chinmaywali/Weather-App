@@ -18,7 +18,7 @@ Weatherly App 🌦️
 The Weatherly App is a Flutter-based mobile application designed to provide accurate and intuitive weather forecasts for users.<br> It offers real-time weather updates, hourly forecasts, and additional information like temperature, humidity, wind speed, and pressure for a selected city.
 
 ---
-
+   
 ## Screenshots 
 
 | Home Screen | Hourly Forecast | Real-time refresh | 
