@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">
 
-<br>  
+<br>   
 Weatherly App 🌦️
 </h1>
 <h3>◦ A real-time Weather Forecasting App </h3>
